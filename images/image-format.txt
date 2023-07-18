@@ -1,0 +1,34 @@
+Whenever you have many different 
+colors in a picture you should use a JPEG. 
+A photograph that features snow or an 
+overcast sky might look like it has large 
+areas that are just white or gray, but the 
+picture is usually made up of many different 
+colors that are subtly different.
+=> nên sử dụng JPEG cho các ảnh có nhiều màu sắc
+
+
+When a picture has an area that is filled 
+with exactly the same color, it is known as 
+flat color. Logos, illustrations, and diagrams 
+often use flat colors. (Note that photographs 
+of snow, sky, or grass are not flat colors, 
+they are made up of many subtly different 
+shades of the same color and are not as 
+suited to GIF or PNG format.)
+=> nên sử dụng GIF và PNG cho các ảnh ít màu sắc
+
+transparent gIf
+ If the transparent part of the 
+image has straight edges and 
+it is 100% transparent (that is, 
+not semi-opaque), you can save 
+the image as a GIF (with the 
+transparency option selected).
+
+If the transparent part of the 
+image has diagonal or rounded 
+edges or if you want a semi
+opaque transparency or a drop
+shadow, then you will need to 
+save it as a PNG.
