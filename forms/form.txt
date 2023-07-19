@@ -1,0 +1,26 @@
+size
+ The size attribute should not 
+be used on new forms. It was 
+used in older forms to indicate 
+the width of the text input 
+(measured by the number of 
+characters that would be seen). 
+For example, a value of 3 would 
+create a box wide enough to 
+display three characters 
+(although a user could enter 
+more characters if they desired).
+ In any new forms you write, 
+CSS should be used to control 
+the width of form elements. 
+The size attribute is only 
+mentioned here because you 
+may come across it when looking 
+at older code.
+
+The <textarea> element 
+is used to create a mutli-line 
+text input. Unlike other input 
+elements this is not an empty 
+element. It should therefore have 
+an opening and a closing tag. 
